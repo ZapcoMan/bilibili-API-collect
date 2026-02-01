@@ -40,6 +40,9 @@ B站 API 采用 C/S 结构，大多数接口为 REST API 和 gRPC，少部分接
 
 **[官方最后一个版本下载地址](https://cloud.lily.lat/file/qr92YW)**
 
+**[另一个B站API 文档 + APIFox在线测试](https://git.krnl64.win/NtKrnl64/bilibili-api-collect)**
+
+
 小小的 Demo：~~av583785685~~ [视频失效原因](https://shakaianee.top/archives/56/) ([Youtube 备链](https://www.youtube.com/watch?v=nfF91Z6fqGk))
 
 ::: warning 声明
